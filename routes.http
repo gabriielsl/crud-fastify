@@ -1,4 +1,4 @@
-POST http://localhost:3333/videos
+POST https://crud-fastify.onrender.com/videos
 Content-Type: application/json
 
 {
@@ -9,11 +9,11 @@ Content-Type: application/json
 
 ###
 
-GET http://localhost:3333/videos
+GET https://crud-fastify.onrender.com/videos
 
 ###
 
-PUT http://localhost:3333/videos/
+PUT https://crud-fastify.onrender.com/videos/
 Content-Type: application/json
 
 {
@@ -24,4 +24,4 @@ Content-Type: application/json
 
 ###
 
-DELETE http://localhost:3333/videos/
+DELETE https://crud-fastify.onrender.com/videos/
