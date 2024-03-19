@@ -2,7 +2,7 @@ POST https://crud-fastify.onrender.com/videos
 Content-Type: application/json
 
 {
-    "title": "Video node",
+    "title": "Video 01",
     "description": "Esse é o primeiro video",
     "duration": 180
 }
@@ -13,11 +13,11 @@ GET https://crud-fastify.onrender.com/videos
 
 ###
 
-PUT https://crud-fastify.onrender.com/videos/
+PUT https://crud-fastify.onrender.com/videos/d34fb1bd-34de-4960-8b87-4bbbdffa3f5b
 Content-Type: application/json
 
 {
-    "title": "Video 02",
+    "title": "Meu Primeiro Video",
     "description": "Esse é o primeiro video",
     "duration": 180
 }
